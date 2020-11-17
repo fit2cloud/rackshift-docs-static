@@ -2,7 +2,7 @@
 
 ## 前期工作
 - [网络准备](network.md)
-- 准备一台不小于 8 G内存的 64位 Linux 主机；
+- 准备一台不小于 8 G内存的 64位 Centos 7 / Redhat 7 以上 Linux 主机；
 
 ## 我们为您提供了两种方式部署 RackShift
 
