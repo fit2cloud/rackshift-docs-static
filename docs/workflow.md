@@ -15,19 +15,24 @@
 
 ## 安装 Centos7
 - 上传 OS 镜像
+
 !!! warning "注意"
     RackShift 只支持 7.0 以上系统安装,并且请使用完整版 ISO 镜像,一般大小在 4G 左右，否则装机失败
+    
 - 裸金属页面选择物理机
+
 - 选择“安装 Centos7 64位”工作流
 ![runnob](./static/wizard/select_centos.jpg)
+
 - 点击“添加至待执行工作流”按钮
+
 - 点击“设置工作流参数” Centos7 安装需要的参数
 ![runnob](./static/wizard/centos_config.jpg)
-- 参数解析
-!!! info "网卡 MAC 地址"
-    系统安装完毕后指定静态 IP 地址的网卡
-!!! info "UEFI 引导"
-    如果您确认您的机器 BIOS 引导模式是 EFI 或者 UEFI 请一定打开此选项，否则装机失败
+
+!!! info "参数解析"
+    - 网卡 MAC 地址: 系统安装完毕后指定静态 IP 地址的网卡
+    - UEFI 引导: 如果您确认您的机器 BIOS 引导模式是 EFI 或者 UEFI 请一定打开此选项，否则装机失败
+    
  - 点击“确定”按钮保存配置
  - 回到裸金属页面点击“执行”按钮
 
