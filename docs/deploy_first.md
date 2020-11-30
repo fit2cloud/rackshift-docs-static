@@ -19,10 +19,11 @@
 
 1. 手动启动物理机，选择从网络启动
 2. 打开远程 KVM 控制台，选择从网络启动
-3. 在 RackShift 服务器或与物理机带外连通的服务器上面安装 ipmitool 工具执行如下命令  
+3. 在 RackShift 服务器或与物理机带外连通的服务器上面安装 ipmitool 工具依次执行如下命令  
   
-    1. ipmitool -I lanplus -H xxx -U xxx -P xxx chassis bootdev pxe  
-    2. ipmitool -I lanplus -H xxx -U xxx -P xxx chassis power on / reset
+    - ipmitool -I lanplus -H xxx -U xxx -P xxx chassis bootdev pxe  
+    - ipmitool -I lanplus -H xxx -U xxx -P xxx chassis power on
+    - ipmitool -I lanplus -H xxx -U xxx -P xxx chassis power reset
 
 如果一切顺利，您将会在物理机显示器上看到如下的画面，表示物理机正在执行首次的发现流程，这个过程需要耗费几分钟,请您耐心等待。  
 ![runnob](./static/wizard/pxe1.jpg)
