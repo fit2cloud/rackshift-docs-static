@@ -21,26 +21,31 @@
 <tr>
 <td>HPE</td>
 <td>Proliant 380 580 Gen8 Gen 9 Gen 10 系列</td>
+<td>&nbsp;</td>
 </tr>
 
 <tr>
 <td>Inspur</td>
 <td>5280 8480 M4 M5 系列</td>
+<td>&nbsp;</td>
 </tr>
 
 <tr>
 <td>IBM</td>
 <td>X3550 X3650 M4 系列</td>
+<td>&nbsp;</td>
 </tr>
 
 <tr>
 <td>H3C</td>
 <td>R4900 G3 系列</td>
+<td>&nbsp;</td>
 </tr>
 
 <tr>
 <td>ZTE</td>
 <td>R5300 G4 系列</td>
+<td>&nbsp;</td>
 </tr>
 
 <tr>
@@ -48,19 +53,6 @@
 <td></td>
 <td>2280 V5系列</td>
 </tr>
-
-<tr>
-<td>其他国产品牌</td>
-<td></td>
-<td>飞腾，龙芯等 UEFI 引导装机</td>
-</tr>
-
-<tr>
-<td>ARM</td>
-<td></td>
-<td>国产 ARM 系列机型</td>
-</tr>
-
 
 </tbody>
 </table>
