@@ -1,19 +1,6 @@
 # 部署您的第一台物理机
-    以浪潮5280M4为例
-
-## 部署 RackShift
-- 通过 [快速开始](quick_start.md) 提供的方式部署 RackShift
-
-## 初始化 RackShift
-1. 配置 PXE 使用的 DHCP 网段
-![runnob](./static/wizard/subnet.jpg) 
-2. 上传用于装机的 Centos7.X 镜像
-![runnob](./static/wizard/image.jpg)
-
-!!! info "注意"
-    - 用户部署的 RackShift 服务器至少有一张网卡与物理机 PXE 网卡是直连。并且配置开启 PXE 的 DHCP 网段必须和该网卡处于同一段。
-    - 用于 PXE 的网络中不能存有其他 DHCP 服务器。 
-
+  以浪潮5280M4为例
+  
 ## PXE 启动物理机
 您可以选择以下几种方式 PXE 启动物理机  
 
@@ -35,5 +22,6 @@
 您选择这条物理机的记录，依次点击操作->带外信息
 ![runnob](./static/wizard/obm.jpg)
 输入该机器的带外账号密码并点击确定，至此 RackShift 将会拥有对该物理机进行自动化部署的能力。
+![runnob](./static/wizard/obmok.jpg)
     
 

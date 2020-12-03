@@ -40,5 +40,7 @@
 
 - 打开“任务”页面
 ![runnob](./static/wizard/task.jpg)
+- 正确部署日志
+![runnob](./static/wizard/log-success.jpg)
 - 查看错误日志
 ![runnob](./static/wizard/log.jpg)

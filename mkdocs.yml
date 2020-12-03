@@ -4,9 +4,11 @@ theme:
 nav:
   - 介绍: index.md
   - 快速开始: quick_start.md
+  - 使用方法:
+      - 准备工作: config.md
+      - 发现物理机: discovery.md
+      - 执行工作流: workflow.md
   - 系统架构: structure.md
-  - 部署您的第一台物理机: deploy_first.md
-  - 执行工作流: workflow.md
   - 故障排除: faq.md
   - 开发手册: dev.md
   - 关于: about.md
