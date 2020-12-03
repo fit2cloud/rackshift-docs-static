@@ -67,11 +67,11 @@
 </table>
 
 ## 界面展示
-1. 物理机
+* 物理机
 ![runnob](static/wizard/pm1.jpg)
-2. 做 RAID
+* RAID
 ![runnob](static/wizard/raid.jpg)
-3. 装机
+* 装机
 ![runnob](static/wizard/centos.jpg)
 
 ## 技术栈
