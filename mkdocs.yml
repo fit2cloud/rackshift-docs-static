@@ -9,6 +9,7 @@ nav:
       - 发现物理机: discovery.md
       - 执行工作流: workflow.md
   - 系统架构: structure.md
+  - 网络结构: network.md
   - 故障排除: faq.md
   - 开发手册: dev.md
   - 关于: about.md
