@@ -1,4 +1,4 @@
-# 部署您的第一台物理机
+# 发现物理机
   以浪潮5280M4为例
   
 ## PXE 启动物理机
@@ -7,7 +7,7 @@
 !!! info "PXE 启动步骤"
         * 手动启动物理机，选择从网络启动
         * 打开远程 KVM 控制台，选择从网络启动
-        * 在 RackShift 服务器或与物理机带外连通的服务器上面安装 ipmitool 工具依次执行如下命令  
+        * 在 RackShift 服务器或与物理机带外连通的服务器上面安装 ipmitool 工具依次执行如下命令 (将 xxx 替换为对应的带外 IP，账号，密码) 
         ``` sh
         ipmitool -I lanplus -H xxx -U xxx -P xxx chassis bootdev pxe  
         ipmitool -I lanplus -H xxx -U xxx -P xxx chassis power on
