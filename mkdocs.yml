@@ -10,6 +10,9 @@ nav:
       - 执行工作流: workflow.md
   - 系统架构: structure.md
   - 网络结构: network.md
+  - 深入内部:
+      - 术语: theory.md
+      - RackShift 对 RackHD 的扩展: extend.md
   - 故障排除: faq.md
   - 开发手册: dev.md
   - 关于: about.md
