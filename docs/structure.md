@@ -1,7 +1,7 @@
 # 系统架构
 
 ## 软件分层
-![runnob](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/rackshift-struc.jpg)
+![runnob](./static/wizard/rs-structure.jpg)
 
 组件说明：
 
