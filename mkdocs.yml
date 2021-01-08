@@ -8,6 +8,8 @@ nav:
       - 准备工作: config.md
       - 发现物理机: discovery.md
       - 执行工作流: workflow.md
+      - 安装 WindowsServer 2012: windows.md
+      - 使用插件: plugin.md
   - 系统架构: structure.md
   - 网络结构: network.md
   - 深入内部:
@@ -58,3 +60,7 @@ copyright: Copyright &copy; 2014-2020 <a href="https://www.fit2cloud.com">杭州
 
 plugins:
   - search
+  - pdf-export:
+      verbose: true
+      media_type: print
+      enabled_if_env: ENABLE_PDF_EXPORT2
