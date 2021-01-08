@@ -60,7 +60,7 @@ copyright: Copyright &copy; 2014-2020 <a href="https://www.fit2cloud.com">杭州
 
 plugins:
   - search
-  - pdf-export:
-      verbose: true
-      media_type: print
-      enabled_if_env: ENABLE_PDF_EXPORT2
+#  - pdf-export:
+#      verbose: true
+#      media_type: print
+#      enabled_if_env: ENABLE_PDF_EXPORT2
