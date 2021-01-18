@@ -2,4 +2,4 @@
 
 ## 微信群
 
-![runnbo](./static/wizard/rs-01-11.jpg)
+![runnbo](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/21-01-18.jpg)
