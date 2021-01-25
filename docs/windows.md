@@ -31,7 +31,7 @@
     ````
 *   设置用户 www 的密码
     ````
-    smbpasswd www
+    smbpasswd -a www
     ````
 *   重启 samba 服务
    ````
