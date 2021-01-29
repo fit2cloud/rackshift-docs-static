@@ -1,5 +1,5 @@
 # 准备工作
-  以浪潮5280M4为例
+  以浪潮 5280M4 为例
 
 ## 部署 RackShift
 - 通过 [快速开始](quick_start.md) 提供的方式部署 RackShift
