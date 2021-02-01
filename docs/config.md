@@ -14,10 +14,10 @@
     - 用于 PXE 的网络中不能存有其他 DHCP 服务器。
       
         
-## 上传用于装机的 Centos7.X 镜像 （必须是完整版镜像，Minimal 版本的镜像没有 curl wget 等工具无法支持 RackShift 工作流回调）
+## 上传用于装机的 Centos7.X 镜像
 ![runnob](./static/wizard/image.jpg)
 
 !!! warning "注意"
-    等待镜像上传完毕之后点击“提交/确定”按钮
-     
+    - 等待镜像上传完毕之后点击“提交/确定”按钮
+    - 必须是完整版镜像，Minimal 版本的镜像没有 curl wget 等工具无法支持 RackShift 工作流回调
 
