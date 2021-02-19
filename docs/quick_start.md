@@ -5,7 +5,7 @@
 - 准备一台不小于 8 G内存的 64位 Centos 7 / Redhat 7 以上 Linux 主机；
 
 #### 在线安装
-您需要先把 “xxx” 替换成 PXE 网卡的 IP 地址配置再执行这个脚本
+您需要先把 “xxx” 替换成 PXE 网卡的 IP 地址配置再执行这个命令
  ```sh
  export serverIp=xxx && curl -sSL https://github.com/rackshift/rackshift/releases/latest/download/quick_start.sh | sh
  ```
