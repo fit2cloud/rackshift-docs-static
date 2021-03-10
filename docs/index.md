@@ -54,7 +54,7 @@
 
 ## 界面展示
 * 物理机
-![runnob](static/wizard/pm1.jpg)
+![runnob](static/wizard/main.jpg)
 * RAID
 ![runnob](static/wizard/raid.jpg)
 * 装机

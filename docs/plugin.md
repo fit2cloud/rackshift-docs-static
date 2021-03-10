@@ -10,7 +10,6 @@
    ![runnob](./static/wizard/add_cmd.jpg)
    
 *  点击“执行”按钮
-   ![runnob](./static/wizard/run_cmd.jpg)
    添加 ipmitool 对应的命令，这里类似于管理员手动批量给物理机执行 ipmitool 的命令，如果有多条命令可以换行
    
 *  选择配置好了带外信息的物理机，点击“执行按钮”
