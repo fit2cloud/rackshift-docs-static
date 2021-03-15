@@ -8,7 +8,7 @@
 #### 在线安装
 
  ```sh
- curl -sSL https://github.com/rackshift/rackshift/releases/latest/download/quick_start.sh | sh
+ sh -c "$(curl -sSL https://github.com/rackshift/rackshift/releases/latest/download/quick_start.sh)"
  ```
 
 #### 离线安装
