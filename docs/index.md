@@ -1,11 +1,13 @@
 # 欢迎来到 RackShift ！
 
-RackShift 是开源的裸金属全生命周期管理平台，功能覆盖裸金属服务器的发现、带外管理、RAID 配置、固件更新、操作系统安装等。 RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue 进行开发，界面美观、用户体验好，集成并扩展 RackHD，支持的X86 服务器品牌包括浪潮、戴尔、华为、联想、惠普等。  
- 
-## 机型支持情况
+RackShift 是开源的裸金属全生命周期管理平台，功能覆盖裸金属服务器的发现、带外管理、RAID 配置、固件更新、操作系统安装等。 RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue
+进行开发，界面美观、用户体验好，集成并扩展 RackHD，支持的X86 服务器品牌包括浪潮、戴尔、华为、联想、惠普等。
+
+## 已支持机型
+
 <table>
 <thead>
-<tr><td>品牌</td><td>已支持型号</td></tr>
+<tr><td>品牌</td><td>型号</td></tr>
 </thead>
 <tbody>
 <tr>
@@ -46,12 +48,13 @@ RackShift 是开源的裸金属全生命周期管理平台，功能覆盖裸金�
 </table>
 
 ## 界面展示
+
 * 物理机
-![runnob](static/wizard/main.jpg)
+  ![runnob](static/wizard/main.jpg)
 * RAID
-![runnob](static/wizard/raid.jpg)
+  ![runnob](static/wizard/raid.jpg)
 * 装机
-![runnob](static/wizard/centos.jpg)
+  ![runnob](static/wizard/centos.jpg)
 
 ## 技术栈
 
@@ -61,7 +64,7 @@ RackShift 是开源的裸金属全生命周期管理平台，功能覆盖裸金�
 
 ## 致谢
 
--  [RackHD](https://rackhd.github.io/)：感谢 RackHD 提供的底层实现；
--  [MAAS](https://maas.io/)：感谢 MAAS 提供的生命周期纳管思路；
--  [Digital Rebar](https://rackn.com/rebar/)：感谢 Digital Rebar 提供的操作方式和 UI 参考；
--  [Element](https://element.eleme.cn/#/)：感谢 Element 提供的优秀组件库。
+- [RackHD](https://rackhd.github.io/)：感谢 RackHD 提供的底层实现；
+- [MAAS](https://maas.io/)：感谢 MAAS 提供的生命周期纳管思路；
+- [Digital Rebar](https://rackn.com/rebar/)：感谢 Digital Rebar 提供的操作方式和 UI 参考；
+- [Element](https://element.eleme.cn/#/)：感谢 Element 提供的优秀组件库。
