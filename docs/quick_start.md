@@ -37,6 +37,12 @@
 
 !!! info "控制命令"
 
-    - rsctl status 查看 RackShift 服务运行状态 - rsctl start 启动 RackShift 服务 - rsctl stop 停止 RackShift 服务 - rsctl restart 重启
-      RackShift 服务 - rsctl reload 重新加载 RackShift 服务 - rsctl reconfig 重设 RackShift 服务 IP（PXE 网卡） 地址 - rsctl upgrade 升级
-      RackShift 至最新版本 - rsctl uninstall 卸载 RackShift 服务 - rsctl version 查看 RackShift 版本信息
+    - rsctl status 查看 RackShift 服务运行状态 
+    - rsctl start 启动 RackShift 服务 
+    - rsctl stop 停止 RackShift 服务 
+    - rsctl restart 重启 RackShift 服务 
+    - rsctl reload 重新加载 RackShift 服务 
+    - rsctl reconfig 重设 RackShift 服务 IP（PXE 网卡） 地址 
+    - rsctl upgrade 升级 RackShift 至最新版本 
+    - rsctl uninstall 卸载 RackShift 服务 
+    - rsctl version 查看 RackShift 版本信息
