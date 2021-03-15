@@ -1,6 +1,13 @@
 site_name: RackShift 文档
 theme:
   name: 'material'
+  logo: 'img/favicon.png'
+  language: 'zh'
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+  custom_dir: 'theme'
 nav:
   - 介绍: index.md
   - 快速开始: quick_start.md
@@ -52,6 +59,8 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.superfences
   - pymdownx.progressbar
+  - lightgallery
+
 
 extra_css:
   - css/extra.css
@@ -64,3 +73,7 @@ plugins:
 #      verbose: true
 #      media_type: print
 #      enabled_if_env: ENABLE_PDF_EXPORT2
+
+extra:
+  version:
+    method: mike
