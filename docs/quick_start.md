@@ -1,6 +1,6 @@
 # 快速开始
 
-## 前期工作
+#### 前期工作
 
 - [网络准备](network.md)
 - 准备一台不小于 8 G内存的 64位 Centos 7 / Redhat 7 以上 Linux 主机；
@@ -22,7 +22,7 @@
 安装过程中需要您手动输入服务器上用作 PXE 的网卡 IP 地址作为 RackShift 服务器的 IP 地址
 ![runnob](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/config_network.jpg)
 
-##### 安装过程截图
+安装过程截图
 
 ![runnbo](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/setup.jpg)
 

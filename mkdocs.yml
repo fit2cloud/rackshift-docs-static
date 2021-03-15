@@ -1,7 +1,8 @@
 site_name: RackShift 文档
 theme:
   name: 'material'
-  logo: 'img/favicon.png'
+  logo: 'img/logo.png'
+  favicon: 'img/favicon.png'
   language: 'zh'
   highlightjs: true
   hljs_languages:
@@ -23,8 +24,8 @@ nav:
       - 术语: theory.md
       - RackShift 对 RackHD 的扩展: extend.md
   - 故障排除: faq.md
-  - 开发手册: dev.md
-  - 关于: about.md
+  #  - 开发手册: dev.md
+  - 联系我们: about.md
 
 
 markdown_extensions:
