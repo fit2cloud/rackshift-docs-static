@@ -3,7 +3,7 @@
 #### 前期工作
 
 - [网络准备](network.md)
-- 准备一台不小于 8 G内存的 64位 Centos 7 / Redhat 7 以上 Linux 主机；
+- 准备一台不小于 8 G内存的 64位 Centos 7 / RHEL 7 以上 Linux 主机；
 
 #### 在线安装
 
