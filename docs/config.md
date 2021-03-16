@@ -14,7 +14,7 @@
     - 用于 PXE 的网络中不能存有其他 DHCP 服务器。
       
         
-## 上传用于装机的 Centos7.X 镜像
+## 上传用于装机的 CentOS7.X 镜像
 ![runnob](./static/wizard/image.jpg)
 
 !!! warning "注意"

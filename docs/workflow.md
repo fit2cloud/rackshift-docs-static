@@ -17,7 +17,7 @@
 - 回到裸金属页面点击”三角形“的执行按钮执行任务
 - 可以重复添加需要执行的其他任务
 
-## 安装 Centos7
+## 安装 CentOS7
 - 上传 OS 镜像
 
 !!! warning "注意"
@@ -26,12 +26,12 @@
 - 裸金属页面选择物理机
 - 点击“工作流”按钮
 ![runnob](./static/wizard/run-workflow.jpg)
-- 选择“安装 Centos7 64位”工作流
+- 选择“安装 CentOS7 64位”工作流
 ![runnob](./static/wizard/select_centos.jpg)
 
 - 点击“添加至待执行工作流”按钮
 
-- 点击“设置工作流参数” Centos7 安装需要的参数
+- 点击“设置工作流参数” CentOS7 安装需要的参数
 ![runnob](./static/wizard/centos_config.jpg)
 
 !!! info "参数解析"
