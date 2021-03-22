@@ -12,6 +12,8 @@ RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue 进行开发，界�
 - 自动化：基于 PXE 或者带外协议实现远程自动化，解放机房运维人员；
 - 易操作: 浏览器可视化操作界面，易于操作和管理。
 
+![runnbo](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/rackshift-component.png)
+
 ## 界面展示
 
 * 物理机
@@ -57,10 +59,6 @@ RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue 进行开发，界�
 <td>R5300 G4 系列</td>
 </tr>
 
-<tr>
-<td>华为</td>
-<td></td>
-</tr>
 
 </tbody>
 </table>
