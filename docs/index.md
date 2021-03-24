@@ -20,7 +20,7 @@ RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue 进行开发，界�
 ## 界面展示
 
 * 物理机
-  ![runnob](static/wizard/main.jpg)
+  ![runnob](https://f2c-south.oss-cn-shenzhen.aliyuncs.com/RackHD-dont-del/RackShift/rackshift-main.png)
 * RAID
   ![runnob](static/wizard/raid.jpg)
 * 装机
