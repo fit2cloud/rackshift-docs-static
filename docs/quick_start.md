@@ -13,7 +13,7 @@
 
 #### 离线安装
 
-* 下载最新 release 离线安装包
+* 下载最新 release 离线安装包(百度网盘下载链接: https://pan.baidu.com/s/1BwdVF9DFT7QLSzqtsH1LQQ 提取码: 3ux1)
 * tar -zxvf rackshiftVxx-offline.tar.gz
 * cd rackshiftVxx-offline/installer
 * ./install.sh
