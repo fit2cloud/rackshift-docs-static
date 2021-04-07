@@ -47,11 +47,11 @@
     
     
 ## 下载 winpe 镜像
-   1. 修改 /opt/rackshift/docker-compose.yml files 镜像为 2.0 或者以上版本 image: rackshift/rackshift-files:1.0 => image: rackshift/rackshift-files:2.0
-     ![runnbo](./static/wizard/winpe-files.jpg)  
+   1. 修改 /opt/rackshift/docker-compose.yml files 镜像为 2.0 或者以上版本 image: registry.cn-qingdao.aliyuncs.com/x-lab/rackshift/rackshift-files:v1.0.0 => image: registry.cn-qingdao.aliyuncs.com/x-lab/rackshift/rackshift-files:v2.0.0
+     ![runnbo](./static/wizard/files.png)  
     
    2. rsctl reload 即可
-   (如果是内网机器，请先在有外网的机器上执行 docker pull rackshift/rackshift-files:2.0, docker save rackshift/rackshift-files:2.0 | gzip > files.tar.gz ，然后拷贝到内网机器，执行 gunzip -c files.tar.gz | docker load 加载，离线包默认不提供该镜像)
+   (如果是内网机器，请先在有外网的机器上执行 docker pull registry.cn-qingdao.aliyuncs.com/x-lab/rackshift/rackshift-files:v2.0.0, docker save registry.cn-qingdao.aliyuncs.com/x-lab/rackshift/rackshift-files:v2.0.0 | gzip > files.tar.gz ，然后拷贝到内网机器，执行 gunzip -c files.tar.gz | docker load 加载，离线包默认不提供该镜像)
    
    
 !!! info "为什么？"
