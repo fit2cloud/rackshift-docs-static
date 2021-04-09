@@ -17,6 +17,8 @@ nav:
       - 发现物理机: discovery.md
       - 执行工作流: workflow.md
       - 安装 WindowsServer 2012: windows.md
+      - 安装 Ubuntu 18.04: ubuntu.md
+      - 常用 ISO: iso.md
       - 使用插件: plugin.md
   - 系统架构: structure.md
   - 网络结构: network.md

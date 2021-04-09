@@ -13,7 +13,7 @@
 
 #### 离线安装
 
-* 百度网盘安装包： (https://pan.baidu.com/s/1fhXq3VUimJsqLYyGL_jWaQ 提取码: i5hm)
+* 百度网盘安装包： (https://pan.baidu.com/s/1h2bmaYWgk1PnXkTVofdiwg 提取码: js7z)
 * tar -zxvf rackshiftV1.0.0-offline.tar.gz
 * cd rackshiftV1.0.0-offline/installer
 * ./install.sh
@@ -35,6 +35,12 @@
 
 ```
 
+通过 rsctl status 查看服务状态
+![runnob](./static/wizard/rs_status.png)
+
+rackshift_ipmitool_1 rackshift_racadm_1 是两个以服务形式展示的工具，正常不会启动
+
+rackshift_dhcp_1 是负责 PXE DHCP 的服务，我们需要打开 webui 在 [子网](config.md) 页面配置正确的 DHCP 网段，该服务就可以正常启动
 !!! info "控制命令"
 
     - rsctl status 查看 RackShift 服务运行状态 
