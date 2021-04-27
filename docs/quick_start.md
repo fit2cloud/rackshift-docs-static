@@ -13,9 +13,9 @@
 
 #### 离线安装
 
-* 百度网盘安装包： (https://pan.baidu.com/s/1h2bmaYWgk1PnXkTVofdiwg 提取码: js7z)
-* tar -zxvf rackshiftV1.0.0-offline.tar.gz
-* cd rackshiftV1.0.0-offline/installer
+* 百度网盘安装包： (https://pan.baidu.com/s/1TA6SuxDjIPNBRmBlieOVMg 提取码: hrbr)
+* tar -zxvf rackshiftV1.1.0-offline.tar.gz
+* cd rackshiftV1.1.0-offline/installer
 * ./install.sh
 
 !!! warning "注意"
