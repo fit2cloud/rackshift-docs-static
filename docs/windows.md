@@ -9,7 +9,7 @@
     ````
     mkdir -p /opt/iso/windowsServer2012 && chmod 777 /opt/iso/windowsServer2012
     ````
-*   挂载 windows 镜像
+*   挂载 windows 镜像（[镜像下载地址](./iso.md)）
     ````
     mount windowsServer2012.iso /opt/iso/windowsServer2012
     ````
@@ -57,5 +57,7 @@
 !!! info "为什么？"
     考虑到离线包的大小太大，因此默认没有引入 WINPE
 
-## 执行安装 windowsServer2012 工作流
+## 执行安装 windowsServer2012 / 2016 工作流
+
+    samba 地址填入 IP 加上 /etc/samba/smb.conf 配置的目录名字如 \\ip\windowsServer2012 
 ![runnbo](static/wizard/windowsserver2012.jpg)

@@ -16,7 +16,7 @@ nav:
       - 准备工作: config.md
       - 发现物理机: discovery.md
       - 执行工作流: workflow.md
-      - 安装 WindowsServer 2012: windows.md
+      - 安装 WindowsServer 2012/2016: windows.md
       - 安装 Ubuntu 18.04: ubuntu.md
       - 常用 ISO: iso.md
       - 使用插件: plugin.md
