@@ -19,5 +19,5 @@
 
 !!! warning "注意"
     - 等待镜像上传完毕之后点击“提交/确定”按钮
-    - 必须是完整版镜像，Minimal 版本的镜像没有 curl wget 等工具无法支持 RackShift 工作流回调
+    - 如果需要 Minimal 版本，请到 https://docs.rackshift.io/iso/ 下载 ！官网的 Minimal 镜像没有 curl 等工具会造成 RackShift 工作流不能正常结束
 
