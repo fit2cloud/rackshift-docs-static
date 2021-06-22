@@ -12,4 +12,8 @@
 ### Q：服务器无响应？
 使用 rsctl restart 命令尝试重启。如果不能成功请确认 RackShift 服务正确的运行的 PXE 网卡之上，并且尝试 rsctl reconfig
 重设为正确的 IP 地址 
+
+### Q：制作 RAID 报错
+![img.png](static/faq/img.png)
+检查磁盘是否做过raid，如果有必须先执行清空 raid 操作才能执行制作 raid
  
