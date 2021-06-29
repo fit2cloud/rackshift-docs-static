@@ -22,7 +22,7 @@ https://pan.baidu.com/s/1Vf8NhF9HwFRnUjv-ykuP-w 提取码：iaat
 
 ## WindowsServer 2019 64
 
-https://pan.baidu.com/s/1_hIL21jeR4ZsEjB4xCrv4Q 提取码：iaat
+https://pan.baidu.com/s/1_hIL21jeR4ZsEjB4xCrv4Q 提取码：wa5q
 
 ## ESXI 6.7
 
