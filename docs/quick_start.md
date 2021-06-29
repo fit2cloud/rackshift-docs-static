@@ -38,8 +38,6 @@
 通过 rsctl status 查看服务状态
 ![runnob](./static/wizard/rs_status.png)
 
-rackshift_ipmitool_1 rackshift_racadm_1 是两个以服务形式展示的工具，正常不会启动
-
 rackshift_dhcp_1 是负责 PXE DHCP 的服务，我们需要打开 webui 在 [子网](config.md) 页面配置正确的 DHCP 网段，该服务就可以正常启动
 !!! info "控制命令"
 
