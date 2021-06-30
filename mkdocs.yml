@@ -18,6 +18,7 @@ nav:
       - 执行工作流: workflow.md
       - 安装 WindowsServer 2012/2016/2019: windows.md
       - 安装 Ubuntu 18.04: ubuntu.md
+      - 安装 Ubuntu 20.04: ubuntu-20.04.md
       - 常用 ISO: iso.md
       - 使用插件: plugin.md
   - 系统架构: structure.md

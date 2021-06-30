@@ -8,9 +8,13 @@ https://pan.baidu.com/s/1sXlTd7LsB_H7MGUHIq9PKA 提取码：sq6p
 
 https://pan.baidu.com/s/1Aw5_e3akOYO6R3PnzGcZZg 提取码：0i2s
 
-## Ubuntu 64
+## Ubuntu 18.04 Legacy preseed 64
 
 https://pan.baidu.com/s/1uNKkjJgY5797NNygzj8teg 提取码：msdg
+
+## Ubuntu 20.04 LiveCD 64
+
+https://pan.baidu.com/s/1HBgmpd6N0UEhq4Kyigmb_A 提取码：f42v
 
 ## WindosServer 2012 64
 
