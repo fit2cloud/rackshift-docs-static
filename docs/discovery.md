@@ -1,10 +1,12 @@
 # 发现物理机
   以浪潮5280M4为例
+  !!! warning "注意"
+      如果是 DELL 或者 HP 机器请确保物理机开启了 IPMI Over LAN 功能！
 ## 通过带外 IPMI/SNMP 扫描发现物理机（被动发现）
 点击裸金属页面“发现”按钮，配置好需要扫描的带外地址段以及带外可能的账号和密码
 ![runnob](./static/wizard/passive_discovery.jpg)
 点击同步，一段时间后将会根据 IPMI 发现地址段内存在的物理机（只能抓取到型号序列号等信息）
-![runnob](./static/wizard/passive_discoveryed.jpg)
+![rwarunnob](./static/wizard/passive_discoveryed.jpg)
 现在这台 Inspur 5280M4 已经通过 IPMI 被动发现到了，此时还无法给它进行部署装机，点击“PXE 重启”按钮，让物理机主动发现
 ![runnob](./static/wizard/pxe_boot.jpg)
 ## PXE 启动物理机 (主动发现)
