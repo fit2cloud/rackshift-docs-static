@@ -34,5 +34,5 @@
     chmod +x /etc/rc.d/rc.local
 ```
 
-!!! warn "注意"
+!!! warning "注意"
   RackShift Post-Install 脚本默认不带 --nochroot 参数
