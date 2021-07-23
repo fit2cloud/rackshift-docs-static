@@ -21,6 +21,7 @@ nav:
       - 安装 Ubuntu 20.04: ubuntu-20.04.md
       - 常用 ISO: iso.md
       - 使用插件: plugin.md
+      - Post-Install 腳本: post-install.md
   - 系统架构: structure.md
   - 网络结构: network.md
   - 深入内部:
