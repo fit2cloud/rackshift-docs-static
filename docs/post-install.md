@@ -35,4 +35,4 @@
 ```
 
 !!! warning "注意"
-  RackShift Post-Install 脚本默认不带 --nochroot 参数
+    RackShift Post-Install 脚本默认不带 --nochroot 参数
