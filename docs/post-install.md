@@ -23,7 +23,7 @@
 * 设置 DNS
 
 ````
-    echo -e "nameserver=192.168.1.1" >> /etc/resolv.conf
+    echo -e "nameserver 192.168.1.1" >> /etc/resolv.conf
 ````
 
 * 基线脚本
