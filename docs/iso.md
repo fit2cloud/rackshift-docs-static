@@ -20,11 +20,11 @@ https://pan.baidu.com/s/1HBgmpd6N0UEhq4Kyigmb_A 提取码：f42v
 
 https://pan.baidu.com/s/1C1wep9aAYQfb2jrQGyiMaw 提取码：1n76
 
-## WindowsServer 2016 64
+## WindowsServer 2016 64 (密钥:P96NB-8TJQB-BW47F-TQRMX-T839R)
 
 https://pan.baidu.com/s/1Vf8NhF9HwFRnUjv-ykuP-w 提取码：iaat
 
-## WindowsServer 2019 64
+## WindowsServer 2019 64 (密钥:N3P28-TW9C9-69PWP-YQVC3-YBKR4)
 
 https://pan.baidu.com/s/1_hIL21jeR4ZsEjB4xCrv4Q 提取码：wa5q
 
