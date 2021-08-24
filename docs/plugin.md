@@ -1,13 +1,12 @@
 # IPMITOOL 使用
 ## 
-*   离线包下载
+*   离线镜像包下载
     https://pan.baidu.com/s/1IVVl6GQnWGZy1chcwZfsQg 提取码：jodr
-    #### 使用方法：
-    ``` 
-        tar zxvf rackshift-third-plugin.tar.gz
-        cd rack_plugin
-        ./load.sh
-    ```
+```
+tar zxvf rackshift-third-plugin.tar.gz
+cd rack_plugin
+./load.sh
+```
     
 *   打开插件页面
    ![runnob](./static/wizard/plugin.jpg)
