@@ -13,9 +13,9 @@
 
 #### 离线安装
 
-* 百度网盘安装包： (https://pan.baidu.com/s/1urXJhajPVEaMPw6rws6_cg 提取码: z114)
-* tar -zxvf rackshift-offline-installer-v1.5.0.tar.gz
-* cd rackshift-offline-installer-v1.5.0/installer
+* [离线安装包下载地址](https://community.fit2cloud.com/#/download/rackshift/v1-5-1)
+* tar -zxvf rackshift-offline-installer-v1.5.1.tar.gz
+* cd rackshift-offline-installer-v1.5.1/installer
 * ./install.sh
 
 !!! warning "注意"
