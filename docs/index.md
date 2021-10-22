@@ -62,6 +62,16 @@ RackShift 遵循 GPL v2 开源协议，使用 SpringBoot/Vue 进行开发，界�
 <td>R5300 G4 系列</td>
 </tr>
 
+<tr>
+<td>华为</td>
+<td>2288H V3 V5 系列</td>
+</tr>
+
+<tr>
+<td>曙光</td>
+<td>H620-G30</td>
+</tr>
+
 
 </tbody>
 </table>
