@@ -16,4 +16,8 @@
 ### Q：制作 RAID 报错
 ![img.png](static/faq/img.png)
 检查磁盘是否做过raid，如果有必须先执行清空 raid 操作才能执行制作 raid
+
+### Q：无法引导 PXE
+![img.png](static/faq/uefi.png)
+把引导模式切换成 bios/legacy 吧
  
