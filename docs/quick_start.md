@@ -13,9 +13,9 @@
 
 #### 离线安装
 
-* [离线安装包下载地址](https://community.fit2cloud.com/#/download/rackshift/v1-6-0)
-* tar -zxvf rackshift-offline-installer-v1.6.0.tar.gz
-* cd rackshift-offline-installer-v1.6.0/installer
+* [离线安装包下载地址](https://community.fit2cloud.com/#/products/rackshift/downloads)
+* tar -zxvf rackshift-offline-installer-v1.x.x.tar.gz
+* cd rackshift-offline-installer-v1.x.x/installer
 * ./install.sh
 
 !!! warning "注意"
