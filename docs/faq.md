@@ -20,4 +20,8 @@
 ### Q：无法引导 PXE
 ![img.png](static/faq/uefi.png)
 把引导模式切换成 bios/legacy 吧
- 
+如果还是不行尝试安装下面顺序重启服务，记住 firewalld 不能关闭
+systemctl restart network
+systemctl restart docker
+systemctl restart firewalld
+rsctl reload
