@@ -14,7 +14,9 @@ nav:
   - 快速开始: quick_start.md
   - 使用方法:
       - 准备工作: config.md
+      - 初始化物理机(以DELL为例): dell.md
       - 发现物理机: discovery.md
+      - 物理机生命周期: lifecycle.md
       - 执行工作流: workflow.md
       - 安装 WindowsServer 2012/2016/2019: windows.md
       - 安装 Ubuntu 18.04: ubuntu.md

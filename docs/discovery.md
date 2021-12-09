@@ -1,7 +1,9 @@
 # 发现物理机
-  以浪潮5280M4为例
-  !!! warning "注意"
-      如果是 DELL 或者 HP 机器请确保物理机开启了 IPMI Over LAN 功能！
+  以浪潮5280M4为例  
+
+!!! warning "注意"
+    1. DELL 或者 HP 机器请确保物理机开启了 IPMI Over LAN 功能！
+    2. DELL 的机器还必须确保机器的网卡开启了 PXE 模式 参考 [初始化物理机(以DELL为例)](dell.md)
 ## 通过带外 IPMI/SNMP 扫描发现物理机（被动发现）
 点击裸金属页面“发现”按钮，配置好需要扫描的带外地址段以及带外可能的账号和密码
 ![runnob](./static/wizard/passive_discovery.jpg)
