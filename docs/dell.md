@@ -1,7 +1,8 @@
 # 初始化物理机(以DELL为例)
 ## DELL 服务器开启 IPMI  
 
-![runnob](./static/wizard/dell_ipmi.png)
+![runnob](./static/wizard/dell_ipmi.png)  
+
 打开 IDRAC web 页面
 !!! 步骤
     - 保证 "Enable IPMI Over LAN" 对勾勾上
