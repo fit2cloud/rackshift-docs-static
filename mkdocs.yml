@@ -30,6 +30,7 @@ nav:
   - 深入内部:
       - 术语: theory.md
       - RackShift 对 RackHD 的扩展: extend.md
+      - 端口释义: port.md
   - 故障排除: faq.md
   #  - 开发手册: dev.md
   - 联系我们: about.md
