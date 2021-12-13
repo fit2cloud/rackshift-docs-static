@@ -29,7 +29,7 @@
 安装成功后您可以通过浏览器访问 RackShift WEB 控制台
 
 ``` sh
-地址: http://ip:80
+地址: http://ip:8082
 账号：admin
 密码：123   
 
