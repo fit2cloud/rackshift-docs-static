@@ -2,9 +2,10 @@
 ### Q：rackshift 主服务无法启动，8082 端口无法访问
 ![img.png](static/wizard/flywayerror.png)
 这个故障一般是 mysql 容器与 rackshift 服务主容器第一次安装启动的联动问题。
-执行如下命令
-* rm -rf /opt/rackshift/data/mysql
-* rsctl reload
+执行如下命令  
+
+- rm -rf /opt/rackshift/data/mysql
+- rsctl reload
 如果 reload 还是不启动可以再多次 rsctl reload
 
 ### Q：通过 rsctl status 发现有的服务无法启动
