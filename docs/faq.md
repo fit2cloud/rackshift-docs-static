@@ -34,3 +34,13 @@ systemctl restart network
 systemctl restart docker
 systemctl restart firewalld
 rsctl reload
+
+### Q：一直处在发现中 无法搜集信息
+![img.png](static/faq/discoverying.png)
+登录账号密码： rancher / monorail 发现没有任何运行的 docker 容器（搜集硬件信息 agent）
+![img.png](static/faq/rancher.png)
+下载[rancher1.2内核](static/rancher1.2.tar.gz)文件,依次执行  
+
+- tar zxvf rancher1.2.tar.gz
+- cd rancher && sh rancher.sh
+- 再 PXE 重启服务器即可
