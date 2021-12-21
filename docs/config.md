@@ -18,7 +18,7 @@
 ![runnob](./static/wizard/image.jpg)
 
 ## 后端挂载 CentOS 镜像
-- 上传镜像文件 CentOS.iso 到 /opt/rackshift/rac8khd/files/mount/common 目录
+- 上传镜像文件 CentOS.iso 到 /opt/rackshift/rackhd/files/mount/common 目录
 - 执行命令 mkdir -p /opt/rackshift/rackhd/files/mount/common/centos-test(名称可以随意写，只要不重复)
 - 执行命令 mount CentOS.iso /mnt/
 - 执行 cp -r /mnt/* /opt/rackshift/rackhd/files/mount/common/centos-test
