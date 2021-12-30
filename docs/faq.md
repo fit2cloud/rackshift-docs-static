@@ -18,6 +18,7 @@
 - create database rackshift;
 - use rackshift;
 - source /rackshift.sql
+- rsctl reload (再重启服务)
 
 ### Q：通过 rsctl status 发现有的服务无法启动
 ![runnob](./static/faq/dhcp-error.jpg)
