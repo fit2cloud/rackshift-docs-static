@@ -10,7 +10,7 @@
 
 如果还是没有正常启动并且报了如下错误
 ![runnob](static/faq/mysql_error.png)
-必须手动创建 mysql 数据库了，一次执行如下命令
+必须手动创建 mysql 数据库了，依次执行如下命令
 
 - docker cp /opt/rackshift/conf/mysql/sql/rackshift.sql rackshift_mysql_1:/
 - docker exec -it rackshift_mysql_1 sh
