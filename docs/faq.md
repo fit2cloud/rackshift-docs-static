@@ -8,6 +8,17 @@
 - rsctl reload
 如果 reload 还是不启动可以再多次 rsctl reload
 
+如果还是没有正常启动并且报了如下错误
+![runnob](static/faq/mysql_error.png)
+必须手动创建 mysql 数据库了，一次执行如下命令
+
+- docker cp /opt/rackshift/conf/mysql/sql/rackshift.sql rackshift_mysql_1:/
+- docker exec -it rackshift_mysql_1 sh
+- mysql -uroot -padmin
+- create database rackshift;
+- use rackshift;
+- source /rackshift.sql
+
 ### Q：通过 rsctl status 发现有的服务无法启动
 ![runnob](./static/faq/dhcp-error.jpg)
 如图 rackshift_dhcp_1 服务器使用的是开源的 isc-dhcp-server，该服务器规定了必须至少绑定一块网卡才可以正常启动，这里我们一般都是绑定提供 PXE 功能的
