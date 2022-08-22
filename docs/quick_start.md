@@ -13,7 +13,7 @@
 
 #### 离线安装
 
-* [离线安装包下载地址](https://community.fit2cloud.com/#/products/rackshift/downloads)
+* [百度网盘下载地址（提取码：vcuv）](https://pan.baidu.com/s/18_B5BWBrNwE0WIdkgdWF0w)
 * tar -zxvf rackshift-offline-installer-v1.x.x.tar.gz
 * cd rackshift-offline-installer-v1.x.x/installer
 * ./install.sh
